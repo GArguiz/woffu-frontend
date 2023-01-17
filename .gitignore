@@ -1,0 +1,5 @@
+/node_modules
+/.vscode
+
+/dashboard/node_modules
+/form/node_modules

@@ -1,0 +1,8 @@
+.list-header{
+    display: flex;
+    flex-flow: row-reverse;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
