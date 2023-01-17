@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import ListComponent from "../../component/List";
 import { connect } from "react-redux";
 import { addData, deleteData, editData, fetch } from "./actions";

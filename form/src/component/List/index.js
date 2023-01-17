@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { List, Modal, Tooltip } from "antd";
+import { List, Modal } from "antd";
 import "./styles.css";
 import ListItem from "../ListItem";
 import ListHeader from "../ListHeader";
